@@ -258,6 +258,10 @@ org\.chromium\.arc\..*
 # Lineage adds
 vendor\.lineage.*
 
+# NavaDroid adds
+org\.nava
+org\.nava\..*
+
 # NV adds
 com\.nvidia
 com\.nvidia\..*
